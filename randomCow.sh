@@ -1,5 +1,5 @@
 #Skrypt losujący dla programu cowsay
-# wywoływać w bash najlepiej w połczeniu z programem fortune
+# wywoływać w .bashrc najlepiej w połczeniu z programem fortune
 # fortune | cowsay -f `python3 $HOME/Workspace/python/randomCow.py`
 
 
